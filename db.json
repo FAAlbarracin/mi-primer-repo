@@ -1,0 +1,16 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "titulo": "El camino de los reyes",
+            "autor": "Brandon Sanderson",
+            "año": 2010
+        },
+        {
+            "id": 2,
+            "titulo": "Palabras radiantes",
+            "autor": "Brandon Sanderson",
+            "año": 2014
+        }
+    ]
+}
